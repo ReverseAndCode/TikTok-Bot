@@ -19,5 +19,3 @@ Goal: Fully web based TikTok SaaS bot to schedule all daily tasks to run in the 
 Twitter: https://twitter.com/ReverseAndCode
 
 Instagram: https://www.instagram.com/ReverseAndCode/
-
-Discord: ReverseAndCode#4782
